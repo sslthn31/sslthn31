@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sslthn31
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, BOOSTRAP, and JQUERY for now
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, BOOSTRAP, JQUERY and REACT for now
 - 📫 How to reach me alhambra.sulthan@gmail.com
 
 <!---
